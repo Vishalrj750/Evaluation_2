@@ -1,0 +1,92 @@
+{
+  "details": [
+    {
+      "name": "vishal",
+      "department": "it",
+      "gender": "male",
+      "role": "fsd",
+      "sallery": "250",
+      "id": 1
+    },
+    {
+      "name": "vishal",
+      "department": "it",
+      "gender": "male",
+      "role": "fsd",
+      "sallery": "250",
+      "id": 2
+    },
+    {
+      "name": "vishal",
+      "department": "it",
+      "gender": "male",
+      "role": "fsd",
+      "sallery": "250",
+      "id": 3
+    },
+    {
+      "name": "vishal",
+      "department": "it",
+      "gender": "male",
+      "role": "fsd",
+      "sallery": "250",
+      "id": 4
+    },
+    {
+      "name": "vishal",
+      "department": "it",
+      "gender": "male",
+      "role": "sde",
+      "sallery": "2400",
+      "id": 5
+    },
+    {
+      "name": "vishal",
+      "department": "it",
+      "gender": "male",
+      "role": "sde",
+      "sallery": "2400",
+      "id": 6
+    },
+    {
+      "name": "rahul",
+      "department": "finance",
+      "gender": "male",
+      "role": "ca",
+      "sallery": "250",
+      "id": 7
+    },
+    {
+      "name": "aman",
+      "department": "bd",
+      "gender": "m",
+      "role": "sd",
+      "sallery": "250",
+      "id": 8
+    },
+    {
+      "name": "aman",
+      "department": "bd",
+      "gender": "m",
+      "role": "sd",
+      "sallery": "250",
+      "id": 9
+    },
+    {
+      "name": "aman",
+      "department": "bd",
+      "gender": "m",
+      "role": "sd",
+      "sallery": "250",
+      "id": 10
+    },
+    {
+      "name": "suman",
+      "department": "fhgdh",
+      "gender": "fdgfgwfd",
+      "role": "fdwf",
+      "sallery": "464",
+      "id": 11
+    }
+  ]
+}
